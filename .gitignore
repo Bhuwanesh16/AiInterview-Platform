@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+models/*.h5
+
+# Logs & reports
+data/
+reports/
+
+# Environment variables
+.env
